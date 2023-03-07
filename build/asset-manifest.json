@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.17c41482.js",
+    "main.js": "/static/js/main.31920ad8.js",
     "static/media/logo.png": "/static/media/logo.412b677f8b157fba229b.png",
     "static/media/home.jpeg": "/static/media/home.6804f46353053b5f3a62.jpeg",
     "static/media/gui.jpeg": "/static/media/gui.9fe83db505767a915ec1.jpeg",
@@ -11,10 +11,10 @@
     "static/media/defi_blog.avif": "/static/media/defi_blog.443589b230fee3640568.avif",
     "index.html": "/index.html",
     "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.17c41482.js.map": "/static/js/main.17c41482.js.map"
+    "main.31920ad8.js.map": "/static/js/main.31920ad8.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.17c41482.js"
+    "static/js/main.31920ad8.js"
   ]
 }
