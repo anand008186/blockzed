@@ -51,7 +51,7 @@ const Footer = () => {
             LinkedIn
           </Link>
           <br />
-          <Link href="#" color="textSecondary">
+          {/* <Link href="#" color="textSecondary">
             <InstagramIcon style={{ marginRight: 10 }} />
             Instagram
           </Link>
@@ -64,10 +64,13 @@ const Footer = () => {
           <Link href="#" color="textSecondary">
             <YouTubeIcon style={{ marginRight: 10 }} />
             YouTube
-          </Link>
+          </Link> */}
         </Grid>
       </Grid>
-        <Typography variant='h6' align='center' gu>© 2023 All Rights Reserved. Block Zed.</Typography>
+      <hr />
+        <Typography variant='h6' align='center' gu>Block Zed address - Office No. HD67A, First Floor, In5 Tech, Dubai Internet City, Dubai, UAE</Typography>
+        <hr />
+        <Typography variant='h6' align='center' gu>© 2022 All Rights Reserved. Block Zed.</Typography>
     </Box>
   );
 };
